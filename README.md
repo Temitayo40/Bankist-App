@@ -2,6 +2,8 @@
 
 This a code along project built with the purpopse of showcasing new Javascript Features like sticky navigation, smooth scrolling, revealing element of scroll and a whole lot more.
 
+![alt text](https://github.com/Temitayo40/Bankist-App/blob/master/img/snap-shot2.png)
+
 # Built with
 <ul>
 <li>HTML</li>
